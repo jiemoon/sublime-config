@@ -1,10 +1,38 @@
 {
+	"added_words":
+	[
+		"Laravel"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Agila Dracula (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
 	"font_face": "Monaco",
-	"font_size": 16,
+	"font_size": 13,
+	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
+		"SublimeLinter-jshint",
 		"Vintage"
 	],
+	"line_numbers": true,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"open_files_in_new_window": false,
+	"phpunit-sublime-terminal": "iTerm",
+	"remember_open_files": false,
+	"show_definitions": false,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"tabs_small": false,
+	"theme": "Agila Dracula.sublime-theme",
+	"theme_agila_horizontal_scrollbar_gray": true,
+	"theme_agila_modified_tab_marker_pink": true,
+	"theme_agila_sidebar_font_big": true,
+	"theme_agila_sidebar_medium": true,
+	"theme_agila_sidebar_selected_entry_lightblue": true,
+	"theme_agila_vertical_scrollbar_gray": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"word_wrap": true
 }

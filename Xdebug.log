@@ -1,0 +1,960 @@
+[12/21/2017 02:13:43PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[12/21/2017 02:13:43PM] INFO - Failed to open /Users/wenjie/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[12/21/2017 02:13:43PM] INFO - Failed to parse /Users/wenjie/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[12/21/2017 02:23:14PM] DEBUG - Event present in queue
+[12/21/2017 02:23:14PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:23:14PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:23:14PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:23:14PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:28:15PM] DEBUG - Event present in queue
+[12/21/2017 02:28:15PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:28:15PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:28:16PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:28:16PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:33:16PM] DEBUG - Event present in queue
+[12/21/2017 02:33:16PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:33:16PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:33:16PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:33:16PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:38:16PM] DEBUG - Event present in queue
+[12/21/2017 02:38:16PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:38:16PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:38:17PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:38:17PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:43:17PM] DEBUG - Event present in queue
+[12/21/2017 02:43:17PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:43:17PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:43:17PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:43:17PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:48:17PM] DEBUG - Event present in queue
+[12/21/2017 02:48:17PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:48:17PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:48:17PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:48:17PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:53:17PM] DEBUG - Event present in queue
+[12/21/2017 02:53:17PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:53:17PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:53:19PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:53:19PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 02:58:19PM] DEBUG - Event present in queue
+[12/21/2017 02:58:19PM] DEBUG - Trying to send event to platform
+[12/21/2017 02:58:19PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 02:58:19PM] DEBUG - Event not sent due to some problem
+[12/21/2017 02:58:19PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/21/2017 03:03:19PM] DEBUG - Event present in queue
+[12/21/2017 03:03:19PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:03:19PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:03:20PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:03:20PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:08:20PM] DEBUG - Event present in queue
+[12/21/2017 03:08:20PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:08:20PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:08:20PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:08:20PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:13:20PM] DEBUG - Event present in queue
+[12/21/2017 03:13:20PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:13:20PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:13:20PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:13:20PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:18:20PM] DEBUG - Event present in queue
+[12/21/2017 03:18:20PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:18:20PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:18:20PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:18:20PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:23:20PM] DEBUG - Event present in queue
+[12/21/2017 03:23:20PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:23:20PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:23:21PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:23:21PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:28:21PM] DEBUG - Event present in queue
+[12/21/2017 03:28:21PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:28:21PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:28:21PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:28:21PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:33:21PM] DEBUG - Event present in queue
+[12/21/2017 03:33:21PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:33:21PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:33:22PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:33:22PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:38:22PM] DEBUG - Event present in queue
+[12/21/2017 03:38:22PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:38:22PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:38:22PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:38:22PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/21/2017 03:43:22PM] DEBUG - Event present in queue
+[12/21/2017 03:43:22PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:43:22PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:43:22PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:43:22PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:48:22PM] DEBUG - Event present in queue
+[12/21/2017 03:48:22PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:48:22PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:48:23PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:48:23PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:53:23PM] DEBUG - Event present in queue
+[12/21/2017 03:53:23PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:53:23PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:53:23PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:53:23PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 03:58:23PM] DEBUG - Event present in queue
+[12/21/2017 03:58:23PM] DEBUG - Trying to send event to platform
+[12/21/2017 03:58:23PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 03:58:23PM] DEBUG - Event not sent due to some problem
+[12/21/2017 03:58:23PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:03:23PM] DEBUG - Event present in queue
+[12/21/2017 04:03:23PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:03:23PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:03:24PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:03:24PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:08:24PM] DEBUG - Event present in queue
+[12/21/2017 04:08:24PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:08:24PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:08:24PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:08:24PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:13:24PM] DEBUG - Event present in queue
+[12/21/2017 04:13:24PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:13:24PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:13:24PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:13:24PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:18:24PM] DEBUG - Event present in queue
+[12/21/2017 04:18:24PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:18:24PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:18:24PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:18:24PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:23:25PM] DEBUG - Event present in queue
+[12/21/2017 04:23:25PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:23:25PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:23:25PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:23:25PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:28:25PM] DEBUG - Event present in queue
+[12/21/2017 04:28:25PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:28:25PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:28:26PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:28:26PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:33:26PM] DEBUG - Event present in queue
+[12/21/2017 04:33:26PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:33:26PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:33:26PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:33:26PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:38:26PM] DEBUG - Event present in queue
+[12/21/2017 04:38:26PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:38:26PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:38:26PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:38:26PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/21/2017 04:43:26PM] DEBUG - Event present in queue
+[12/21/2017 04:43:26PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:43:26PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:43:27PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:43:27PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/21/2017 04:48:27PM] DEBUG - Event present in queue
+[12/21/2017 04:48:27PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:48:27PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:48:27PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:48:27PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/21/2017 04:53:27PM] DEBUG - Event present in queue
+[12/21/2017 04:53:27PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:53:27PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:53:27PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:53:27PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 04:58:27PM] DEBUG - Event present in queue
+[12/21/2017 04:58:27PM] DEBUG - Trying to send event to platform
+[12/21/2017 04:58:27PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 04:58:28PM] DEBUG - Event not sent due to some problem
+[12/21/2017 04:58:28PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:03:28PM] DEBUG - Event present in queue
+[12/21/2017 05:03:28PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:03:28PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:03:28PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:03:28PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:08:28PM] DEBUG - Event present in queue
+[12/21/2017 05:08:28PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:08:28PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:08:28PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:08:28PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:13:28PM] DEBUG - Event present in queue
+[12/21/2017 05:13:28PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:13:28PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:13:29PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:13:29PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:18:29PM] DEBUG - Event present in queue
+[12/21/2017 05:18:29PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:18:29PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:18:29PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:18:29PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:23:29PM] DEBUG - Event present in queue
+[12/21/2017 05:23:29PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:23:29PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:23:30PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:23:30PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:28:30PM] DEBUG - Event present in queue
+[12/21/2017 05:28:30PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:28:30PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:28:31PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:28:31PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:33:31PM] DEBUG - Event present in queue
+[12/21/2017 05:33:31PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:33:31PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:33:32PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:33:32PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:38:32PM] DEBUG - Event present in queue
+[12/21/2017 05:38:32PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:38:32PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:38:32PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:38:32PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:43:32PM] DEBUG - Event present in queue
+[12/21/2017 05:43:32PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:43:32PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:43:33PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:43:33PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:51:02PM] DEBUG - Event present in queue
+[12/21/2017 05:51:02PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:51:02PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:51:02PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:51:02PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 05:56:02PM] DEBUG - Event present in queue
+[12/21/2017 05:56:02PM] DEBUG - Trying to send event to platform
+[12/21/2017 05:56:02PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 05:56:03PM] DEBUG - Event not sent due to some problem
+[12/21/2017 05:56:03PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 06:01:03PM] DEBUG - Event present in queue
+[12/21/2017 06:01:03PM] DEBUG - Trying to send event to platform
+[12/21/2017 06:01:03PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 06:01:04PM] DEBUG - Event not sent due to some problem
+[12/21/2017 06:01:04PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 06:06:04PM] DEBUG - Event present in queue
+[12/21/2017 06:06:04PM] DEBUG - Trying to send event to platform
+[12/21/2017 06:06:04PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 06:06:04PM] DEBUG - Event not sent due to some problem
+[12/21/2017 06:06:04PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/21/2017 06:11:04PM] DEBUG - Event present in queue
+[12/21/2017 06:11:04PM] DEBUG - Trying to send event to platform
+[12/21/2017 06:11:04PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/21/2017 06:11:05PM] DEBUG - Event not sent due to some problem
+[12/21/2017 06:11:05PM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/22/2017 08:50:41PM] DEBUG - Event present in queue
+[12/22/2017 08:50:41PM] DEBUG - Trying to send event to platform
+[12/22/2017 08:50:41PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/22/2017 08:51:57PM] DEBUG - Event not sent due to some problem
+[12/22/2017 08:51:57PM] ERROR - <urlopen error [Errno 60] Operation timed out>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 435, in create_connection
+  File "./python3.3/socket.py", line 426, in create_connection
+TimeoutError: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 60] Operation timed out>
+[12/22/2017 08:56:57PM] DEBUG - Event present in queue
+[12/22/2017 08:56:57PM] DEBUG - Trying to send event to platform
+[12/22/2017 08:56:57PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/22/2017 08:58:14PM] DEBUG - Event not sent due to some problem
+[12/22/2017 08:58:14PM] ERROR - <urlopen error [Errno 60] Operation timed out>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 435, in create_connection
+  File "./python3.3/socket.py", line 426, in create_connection
+TimeoutError: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 60] Operation timed out>
+[12/22/2017 09:03:14PM] DEBUG - Event present in queue
+[12/22/2017 09:03:14PM] DEBUG - Trying to send event to platform
+[12/22/2017 09:03:14PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/22/2017 09:03:15PM] DEBUG - Event not sent due to some problem
+[12/22/2017 09:03:15PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/22/2017 09:08:15PM] DEBUG - Event present in queue
+[12/22/2017 09:08:15PM] DEBUG - Trying to send event to platform
+[12/22/2017 09:08:15PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/22/2017 09:08:15PM] DEBUG - Event not sent due to some problem
+[12/22/2017 09:08:15PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/22/2017 09:13:15PM] DEBUG - Event present in queue
+[12/22/2017 09:13:15PM] DEBUG - Trying to send event to platform
+[12/22/2017 09:13:15PM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/22/2017 09:13:17PM] DEBUG - Event not sent due to some problem
+[12/22/2017 09:13:17PM] ERROR - <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Traceback (most recent call last):
+  File "./python3.3/urllib/request.py", line 1248, in do_open
+  File "./python3.3/http/client.py", line 1065, in request
+  File "./python3.3/http/client.py", line 1103, in _send_request
+  File "./python3.3/http/client.py", line 1061, in endheaders
+  File "./python3.3/http/client.py", line 906, in _send_output
+  File "./python3.3/http/client.py", line 844, in send
+  File "./python3.3/http/client.py", line 822, in connect
+  File "./python3.3/socket.py", line 417, in create_connection
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 469, in open
+  File "./python3.3/urllib/request.py", line 487, in _open
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 1274, in http_open
+  File "./python3.3/urllib/request.py", line 1251, in do_open
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[12/25/2017 08:44:56AM] DEBUG - Event present in queue
+[12/25/2017 08:44:56AM] DEBUG - Trying to send event to platform
+[12/25/2017 08:44:56AM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/25/2017 08:44:57AM] DEBUG - Event not sent due to some problem
+[12/25/2017 08:44:57AM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/25/2017 08:49:57AM] DEBUG - Event present in queue
+[12/25/2017 08:49:57AM] DEBUG - Trying to send event to platform
+[12/25/2017 08:49:57AM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/25/2017 08:49:58AM] DEBUG - Event not sent due to some problem
+[12/25/2017 08:49:58AM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/25/2017 08:54:58AM] DEBUG - Event present in queue
+[12/25/2017 08:54:58AM] DEBUG - Trying to send event to platform
+[12/25/2017 08:54:58AM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/25/2017 08:54:59AM] DEBUG - Event not sent due to some problem
+[12/25/2017 08:54:59AM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed
+[12/25/2017 08:59:59AM] DEBUG - Event present in queue
+[12/25/2017 08:59:59AM] DEBUG - Trying to send event to platform
+[12/25/2017 08:59:59AM] DEBUG - {'streamid': '', 'dateTime': '2017-12-21T14:22:14.449854+08:00', 'version': 'v0.0.17', 'properties': {'duration': 40, 'Environment': 'Sublime Text 3143'}, 'objectTags': ['Computer', 'Software'], 'actionTags': ['Develop'], 'source': 'Sublime Text Plugin'}
+[12/25/2017 08:59:59AM] DEBUG - Event not sent due to some problem
+[12/25/2017 08:59:59AM] ERROR - HTTP Error 405: Not Allowed
+Traceback (most recent call last):
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 261, in send_events_from_queue
+  File "1self in /Users/wenjie/Library/Application Support/Sublime Text 3/Installed Packages/1Self.sublime-package", line 280, in send_event_to_platform
+  File "./python3.3/urllib/request.py", line 156, in urlopen
+  File "./python3.3/urllib/request.py", line 475, in open
+  File "./python3.3/urllib/request.py", line 587, in http_response
+  File "./python3.3/urllib/request.py", line 513, in error
+  File "./python3.3/urllib/request.py", line 447, in _call_chain
+  File "./python3.3/urllib/request.py", line 595, in http_error_default
+urllib.error.HTTPError: HTTP Error 405: Not Allowed

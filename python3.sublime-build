@@ -1,0 +1,5 @@
+{
+    "cmd": ["python3", "$file"],
+    "file_regex": "py$",
+    "selector": "source.py"
+}
